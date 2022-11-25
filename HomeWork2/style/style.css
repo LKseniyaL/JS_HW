@@ -1,0 +1,28 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    width: 120px;
+    height: 120px;
+    margin: 40px;
+    border: 4px solid #74b9ff;
+
+}
+.bootom_div_box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 400px;
+}
+.img_bottom{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border: 4px solid #74b9ff;
+}
