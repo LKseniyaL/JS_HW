@@ -1,7 +1,4 @@
 
-//preventDefault позволяет отменить все действия которые были заданы 
-//для браузера будут отменены
-
 const form = document.querySelector('#form');
 const titleInput = document.querySelector('#title');
 const priceInput = document.querySelector('#price');
