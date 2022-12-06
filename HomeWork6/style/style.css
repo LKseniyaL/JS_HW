@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p a{
+    text-decoration: none;
+    color: #0a3d62;
+}
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+.game-body p{
+    font-size: 30px;
+    font-style: italic;
+    color: #8395a7;
+}
+.newParagraph:hover{
+color: #4a69bd;
+}
+.game-body{
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    background-color: #f1f2f6;
+}
+.newDiv h2{
+    font-size: 70px;
+    font-style: italic;
+    text-shadow: 5px 5px 5px #aaa69d;
+    color: #0a3d62;
+}
+.newDiv h1{
+    font-size: 50px;
+    font-style: italic;
+    text-shadow: 5px 5px 5px #aaa69d;
+    color: #60a3bc;
+    text-align: center;
+}
+
+.game-body button{
+    margin-top: 40px;
+    width: 140px;
+    height: 40px;
+    background-color: #40739e;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+     }
+/* ************************ index 2 */
+.img{
+    width: 60px;
+    height: 60px;
+    margin: 20px;
+}
+#form{
+   text-align: center;
+}
+#form p{
+    font-size: 40px;
+    font-style: oblique;
+    color: #40739e;
+}
+.label2_P{
+    margin-top: 80px;
+    font-size: 40px;
+    font-style: oblique;
+    color: #40739e;
+}
+#form input{
+    width: 400px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.DivButton{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.DivButton button{
+    margin-top: 40px;
+    width: 100px;
+    height: 30px;
+    background-color: #40739e;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+/* ************************ index 3 */
+body{
+    background-color: #f5f6fa;
+}
+.imgHtml3{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+.html3_P_H2{
+text-align: center;
+}
+.html3_P_H2 h2{
+    margin-bottom: 20px;
+    font-size: 60px;
+    font-style: italic;
+    text-shadow: 5px 5px 5px #1dd1a1;
+    color: #487eb0;
+}
+.html3_P_H2 p{ 
+    font-size: 20px;
+    font-style: oblique;
+}
+.html3_Img_Div{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.newDivScript{
+    background-color: #40739e;
+    width: 600px;
+    height: 150px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 80px;
+    border-radius: 60px;
+    margin-top: 100px;
+}
+.newP{
+    color: white;
+    padding: 60px;
+}
